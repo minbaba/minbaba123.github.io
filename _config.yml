@@ -1,5 +1,5 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "minbaba123.github.io" # the base hostname & protocol for your site.
+url: "minbaba.github.io" # the base hostname & protocol for your site.
 title: "username-blog"
 
 
